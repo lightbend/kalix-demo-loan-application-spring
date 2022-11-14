@@ -1,4 +1,4 @@
-# Kalix Demo - Loan application - Spring
+# Kalix Demo - Loan application - Spring 
 Not supported by Lightbend in any conceivable way, not open for contributions.<br>
 ## Prerequisite
 Java 17<br>
